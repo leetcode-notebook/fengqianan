@@ -2,7 +2,7 @@
 
 using namespace std;
 
-//两次遍历
+//方法一：两次遍历
 class Solution {
 public:
     vector<int> sortArrayByParity(vector<int>& A) {
@@ -18,7 +18,7 @@ public:
 };
 
 
-//原地算法，双指针
+//方法二：原地算法，双指针
 class Solution {
 public:
     vector<int> sortArrayByParity(vector<int>& A) {
