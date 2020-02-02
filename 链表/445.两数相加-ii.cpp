@@ -1,3 +1,6 @@
+//本题使用vector
+//若使用两个栈存储两个链表的值，会更简便
+
 /*
  * @lc app=leetcode.cn id=445 lang=cpp
  *
