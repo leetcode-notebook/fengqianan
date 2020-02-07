@@ -1,3 +1,4 @@
+//借助vector容器解题
 /*
  * @lc app=leetcode.cn id=622 lang=cpp
  *
